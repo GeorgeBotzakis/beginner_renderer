@@ -1,3 +1,5 @@
 ### How to run
--> cmake -S . -B build \n
--> cmake --build build
+
+cmake -S . -B build
+
+cmake --build build
